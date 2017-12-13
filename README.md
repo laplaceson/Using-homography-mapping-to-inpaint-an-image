@@ -10,4 +10,4 @@ different perspective images. With homography matrix and masked images-pair.
 
 You can implement simple image inpiaint finally.
 
-![image]{https://github.com/laplaceson/Using-homography-mapping-to-inpaint-an-image/blob/master/1.JPG}
+![image](https://github.com/laplaceson/Using-homography-mapping-to-inpaint-an-image/blob/master/1.JPG)
